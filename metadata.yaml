@@ -1,0 +1,28 @@
+_repo: Curiosities-of-Impecuniosity_38439
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38439-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Somerville, H. G.
+    gutenberg_agent_id: '39470'
+    url: http://www.gutenberg.org/2009/agents/39470
+description: ''
+gutenberg_issued: '2011-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38439'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HB'
+- !lcsh 'Poor -- Great Britain'
+tableOfContents: The moral and immoral effects of impecuniosity -- Impecuniosity of
+  the great -- The shifts of impecuniosity -- The luck and ill luck of impecuniosity
+  -- The ingenuity of impecuniosity -- The impecuniosity of actors -- Impecuniosity
+  of artists -- Impecuniosity of authors -- The romance of impecuniosity.
+title: Curiosities of Impecuniosity
+url: http://www.gutenberg.org/ebooks/38439
